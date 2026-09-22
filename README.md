@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/DOI-TBD.svg)](https://doi.org/DOI-TBD)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22876768.svg)](https://doi.org/10.5281/zenodo.22876768)
 
 # 偏元数学 · Day25 · ε↔η 映射（共享结构 · 同界 · 同退化）· Lean 4 形式化验证
 
@@ -6,7 +6,7 @@
 
 本文工作尚未得到独立实验验证，全部结论均为形式化验证层面的初步结果。
 
-> **DOI**：`DOI-TBD`（**发布后回填本行与顶部徽章**）。本仓库为偏元数学 S3（第三程）横向推进的第一小步，上承 Day24 `prenary-math-lean-s3-complexification`（[10.5281/zenodo.22815027](https://doi.org/10.5281/zenodo.22815027)）与 Day23 `prenary-math-lean-s2-residual-scaling`（[10.5281/zenodo.22813242](https://doi.org/10.5281/zenodo.22813242)）。
+> **DOI**：DOI：10.5281/zenodo.22876768。本仓库为偏元数学 S3（第三程）横向推进的第一小步，上承 Day24 `prenary-math-lean-s3-complexification`（[10.5281/zenodo.22815027](https://doi.org/10.5281/zenodo.22815027)）与 Day23 `prenary-math-lean-s2-residual-scaling`（[10.5281/zenodo.22813242](https://doi.org/10.5281/zenodo.22813242)）。
 
 ## 摘要
 
